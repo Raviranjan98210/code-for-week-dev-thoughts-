@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://ravi123:codeX1@night@cluster0.zldia.mongodb.net/test",
-  "jwtSecret": "fiveSecondOfSummer"
+  "jwtSecret": "fiveSecondOfSummer",
+  "githubClientId": "f98a60d5910e3e3f1e8b",
+  "githubSecret": "d70bc23925a515e028710277fb5c221f0066cb0b"
 }
